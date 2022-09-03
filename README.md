@@ -1,4 +1,4 @@
-# crud-python-postgresql
+# crud-python-MySql
 Criado com python e mysql 
 
 ## CRUD 
